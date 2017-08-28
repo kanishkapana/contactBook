@@ -5,7 +5,10 @@
 `git clone https://github.com/kanishkapana/contactBook.git`
 
 ## Run the Project
+`npm install`
+
 `npm start`
+
 Default port is 3000 and default host is localhost. (http://localhost:3000)
 
 # Api Endpoints
