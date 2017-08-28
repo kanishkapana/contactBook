@@ -1,0 +1,9 @@
+{
+    "db":{
+        "mongo":{
+	        "host": "localhost:27017",
+		    "database": "contactBook"
+        }
+    }
+    
+}
